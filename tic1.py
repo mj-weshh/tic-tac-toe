@@ -118,6 +118,7 @@ def restart():
      screen.fill(BLACK)
      draw_lines()
      player = 1
+     game_over = False
      for row in range(BOARD_ROWS):
           for col in range(BOARD_COLS):
                board[row][col] = 0
