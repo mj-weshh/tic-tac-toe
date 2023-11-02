@@ -160,6 +160,7 @@ while True:
           if event.type == pygame.KEYDOWN:
                if event.key ==pygame.K_r:
                     restart()
+                    game_over = False
 
 
      pygame.display.update()
