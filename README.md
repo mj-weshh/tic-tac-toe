@@ -26,7 +26,7 @@ This is a simple implementation of the classic Tic Tac Toe game using Python and
 3. Run the game by executing the following command:
 
    ```
-   python tic_tac_toe.py
+   python tic1.py
    ```
 
 4. The game window will open, and you can start playing.
