@@ -1,4 +1,3 @@
-# mj_works
 # Tic Tac Toe Game in Python
 
 This is a simple implementation of the classic Tic Tac Toe game using Python and the Pygame library. You can play this game on your computer with two players taking turns.
